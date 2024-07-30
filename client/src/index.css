@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto:wght@400;500;700&display=swap");
+
+/* Tailwind CSS base styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.font-sans {
+  font-family: "Roboto", sans-serif;
+}
+.font-serif {
+  font-family: "Lora", serif;
+}
